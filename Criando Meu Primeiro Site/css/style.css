@@ -1,0 +1,64 @@
+html{
+    font-family: cursive;
+    background-color: pink;
+}
+
+.wpp{
+    display: block;
+    position: fixed;
+    right: 15px;
+    bottom: 30px;
+    width:60px; 
+    height:60px; 
+}
+
+.logo{
+    text-align: center;
+    margin: 10px 70px;
+}
+
+.container{    
+    background-color: rgb(243, 219, 222);
+    max-width: 1500px;
+    padding: 10px 70px;
+    margin: 10px 70px;
+    position: relative;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.hearder{
+    padding-left: 20px;
+    color: rgb(183, 6, 139);
+    text-align: left;
+}
+
+.main-title{
+    font-size: 30px;
+}
+
+.main-paragraph{
+    font-style:unset;
+}
+
+.image{
+    text-align: center;
+    color:rgb(183, 6, 139);
+}
+
+.quotes-container{
+    padding-left: 50px;
+    color:rgb(183, 6, 139);
+    border: 2px dashed  rgb(183, 6, 139);
+    border-radius: 20px;
+    width: 500px;
+    font-style: italic;
+}
+
+.cardapio-container{
+    padding-left: 20px;
+    color: rgb(183, 6, 139);
+    text-align: left;
+}
